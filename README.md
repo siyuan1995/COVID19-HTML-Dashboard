@@ -20,7 +20,7 @@ Functionality:
 •	Click the circle icon below square icon on the top left to see heatmap view of the data.
 
 
-![alt text](http://github.com/siyuan1995/COVID-HTML-Dashboard/master/picture1.png)
+![alt text](https://github.com/siyuan1995/COVID19-HTML-Dashboard/blob/master/Picture1.png)
 
  
 
